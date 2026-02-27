@@ -25,7 +25,7 @@ public class weekname{
                         break;
             case 7 : System.out.println("Sunday");
                         break;
-            default : System.out.println("Please enter number only between 1 - 7 only");
+            default : System.out.println("Please enter numbers only between 1 - 7 only");
         }
 
     }
